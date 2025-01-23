@@ -24,5 +24,4 @@ if __name__ == '__main__':
             print(x.from_bytes(bin(x)))
             print("File not opened.")
             x = 'hello'
-            x.
         print("Execution completed.")
